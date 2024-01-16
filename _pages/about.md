@@ -16,9 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'>
-  [中文文档](./English.md)
+  [中文文档](./Chinese.md)
 </span>
-
+  [中文文档](./Chinese.md)
 
 # 🎓Education
 
