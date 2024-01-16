@@ -18,7 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'>
   [中文文档](./Chinese.md)
 </span>
+
  [中文文档](./English.md)
+ 
 # 🎓Education
 
 - **University of Galway, Ireland**
