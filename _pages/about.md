@@ -15,7 +15,6 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
- [English](./about.md)
  
 # 📖教育经历
 - *09/2025-07/2026*: 爱尔兰高威大学, 计算机科学与技术
