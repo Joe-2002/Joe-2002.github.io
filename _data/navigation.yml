@@ -3,20 +3,26 @@ main:
   - title: "教育经历"
     url: "#教育经历"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "出版物"
+    url: "#出版物"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "证书"
+    url: "#证书"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "文章"
+    url: "#文章"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "工作经历"
+    url: "#工作经历"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "项目经历"
+    url: "#项目经历"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "校园经历"
+    url: "#校园经历"
+
+  - title: "著作权"
+    url: "#著作权"
+    
+  - title: "奖项和荣誉"
+    url: "#奖项和荣誉"
