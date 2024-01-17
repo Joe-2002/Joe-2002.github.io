@@ -1,28 +1,28 @@
 # main links links
 main:
-  - title: "教育经历"
-    url: "#教育经历"
+  - title: "Education"
+    url: "#education"
 
-  - title: "出版物"
-    url: "#出版物"
-
-  - title: "证书"
-    url: "#证书"
-
-  - title: "文章"
-    url: "#文章"
-
-  - title: "工作经历"
-    url: "#工作经历"
-
-  - title: "项目经历"
-    url: "#项目经历"
-
-  - title: "校园经历"
-    url: "#校园经历"
-
-  - title: "著作权"
-    url: "#著作权"
+  - title: "Publications"
+    url: "#publications"
     
-  - title: "奖项和荣誉"
-    url: "#奖项和荣誉"
+  - title: "Certificate"
+    url: "#certificate"
+
+  - title: "Projects"
+    url: "#projects"
+    
+  - title: "Professional Experience"
+    url: "#professional-experience"
+    
+  - title: "Projects Experience"
+    url: "#project-experience"
+    
+  - title: "Extracurricular Activity"
+    url: "#extracurricular-activity"
+    
+  - title: " Copyrights"
+    url: "#copyrights"
+    
+  - title: "Honors and Awards"
+    url: "#honors-and-awards"
