@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
  
-# 🎓Education()
+# 🎓Education
 - *09/2025-07/2026*: 爱尔兰高威大学, 计算机科学与技术
   - 核心课程: 数据分析编程、网络和网络科学、数据可视化、数据分析案例研究
 - *07/2022-08/2026(预期)*: 南京农业大学, 工商管理 (兼读制)
@@ -31,13 +31,15 @@ redirect_from:
 # ⭐Publications
 - (2023). 《汽车行业数智化营销及运营模式研究》上海商业 ISSN1007-2845 中国知网 收录检索。
 - (2023). 《Deciphering Modern Customer Loyalty： A Machine Learning Approach》 第三届物联网与机器学习国际学术会议（IoTML 2023）EI Compendex，Scopus收录检索。 Doi：10.1117/12.3016467.
-
+- (2024). 《A Gradient-Enhanced Decision Tree and XGBoost-Based Human-Job Matching Model》 第五届人工智能、网络与信息技术国际学术会议（AINIT 2024）EI Compendex, SCOPUS收录检索。 Doi：10.1109/AINIT61980.2024.10581848.
+- (2024). 《Modeling Solar Cycle Onset and Duration Based on Sunspot Activity Trends》 第九届智能计算与信号处理国际学术会议（ICSP 2024）IEEE Xplore、EI Compendex、Scopus收录检索。
 # 📚Certificate
 - *02/2023* &ensp;高级-注册数据分析师（中国金融分析协会）
 - *11/2022* &ensp;中级-软件设计师（人力资源和社会保障部）
 - *12/2022* &ensp;工业互联网平台开发工程师中级（工业和信息化部人才交流中心）
 - *03/2019* &ensp;全国计算机等级考试一级（Office）
 - *03/2023* &ensp;全国计算机等级考试二级（C语言）
+- *09/2021* &ensp;全国性英语等级考试（CET4）
 
 # 🌎Projects
 - **影响用户满意度和评级的研究**
@@ -107,9 +109,11 @@ redirect_from:
 - *08/2022* 《基于人工智能的人才匹配系统》 (2022SR1570163).           
 - *03/2022* 《房车市场需求平台解决方案V1.0》 (2023SR0217158).         
 - *08/2023* 《基于Django和Vue前后端分离的教学协作平台V1.0》(2021SR1494741).  
-- *08/2023* 《基于LLM（大语言模型）与向量数据库的数智化企业智能助理系统》(2023SR1583655). 
-        
+- *08/2023* 《基于LLM（大语言模型）与向量数据库的数智化企业智能助理系统》(2023SR1583655).
+- *04/2024* 《基于LLM大语言模型和知识图谱的智慧分身客服系统v1.0》(2024SR0595090). 
+- *05/2024* 《基于GPS定位和GIS地理信息的高校运动打卡系统》(2024SR0605788). 
 # ✨Honors and Awards
+- *05/2024* 第二届中国生成式AI应用创新挑战赛 大学生及个人开发者组 全国Top9  
 - *12/2023* 2023百度搜索创新大赛 搜索答案组织赛道 全国Top10  
 - *12/2023* 2023百度搜索创新大赛 设计一个解决搜索用户需求的AI原生应用赛道  全国冠军
 - *05/2023* 2023年南通市三好学生
